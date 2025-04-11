@@ -16,7 +16,7 @@
 </div>
 
 
-Here is the demo Sana Sprint reference app configured to work on a mac or linux host. It will probably works on WSL.  I just repackaged this to work on Macs and Linux with some minor code changes.  
+Here is the demo Sana Sprint reference app [https://huggingface.co/spaces/Efficient-Large-Model/SanaSprint] configured to work on a mac or linux host. It will probably works on WSL.  I just repackaged this to work on Macs and Linux with some minor code changes.  
 
 > The model has it's own commerical license you should review.
 
